@@ -212,16 +212,6 @@ I care about what happens inside the system: data flow, failure handling, async 
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=randomboy24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Jatin's GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## Let's Connect
 
 I'm open to collaborating on backend-heavy products, AI-native apps, developer tools, RAG systems, and serious full-stack projects.
