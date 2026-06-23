@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Jatin Singh Rathor 👋</h1>
 
 <p align="center">
-  Backend-heavy Full-Stack Developer · Agentic AI Builder · System Design Learner
+  <strong>Backend-heavy Full-Stack Developer · Agentic AI Builder · System Design Learner</strong>
+</p>
+
+<p align="center">
+  I build execution-heavy products where the real engineering starts after the button is clicked.
 </p>
 
 <p align="center">
@@ -187,15 +191,23 @@ I care about what happens inside the system: data flow, failure handling, async 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=randomboy24&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=randomboy24&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Jatin's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=randomboy24&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=randomboy24&theme=dark&hide_border=true" alt="Jatin's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomboy24&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomboy24&theme=dark&hide_border=true&layout=compact" alt="Jatin's Top Languages" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=randomboy24&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Jatin's GitHub Activity Graph" />
 </p>
 
 ---
@@ -203,7 +215,7 @@ I care about what happens inside the system: data flow, failure handling, async 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=randomboy24&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=randomboy24&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Jatin's GitHub Trophies" />
 </p>
 
 ---
